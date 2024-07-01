@@ -1,0 +1,2 @@
+Nazwa gry: nazwaGry; rodzaj pozycji: Gra ; wiek minimalny: 9; wiek maksymalny 111; Imię klienta: Kamil; Nazwisko klienta: Płocki; Wiek klienta: 22
+Nazwa książki: nazwaKsiazki; Autor: AutorKsiazki; rodzaj pozycji: Ksiazka; wiek minimalny: 19; Imię klienta: kdwadaw; Nazwisko klienta: dwkdwakda; Wiek klienta: 22

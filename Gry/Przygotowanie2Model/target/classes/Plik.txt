@@ -1,0 +1,1 @@
+Nazwa gry: dwadaw; wiek minimalny: 10; wiek maksymalny 20; Imię klienta: dwadaw; Nazwisko klienta: dwadawd; Wiek klienta: 20
